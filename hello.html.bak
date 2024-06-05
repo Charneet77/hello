@@ -8,7 +8,11 @@
   <link rel="icon" href="favicon.png">
 </head>
 <body>
-  <h1>Hello, world!</h1>
+<<<<<<< HEAD
+  <h1>Hello, world!!</h1>
+=======
+  <h1 style="color: blue;">Hello, world!</h1>
+>>>>>>> 0df850d131bdd5cc57be00a2a551a72d1fb0505f
   <h2>Charneet Singh</h2>
   <p>Welcome to my website</p>
 </body>
